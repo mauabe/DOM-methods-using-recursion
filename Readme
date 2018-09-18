@@ -1,0 +1,8 @@
+These were exercises for a precouse for Hack Reactor. I liked doing them for two reasons:
+  • they were a good javascript practice 
+  • They made me learn more about how to used javascript to interact with the DOM.
+  
+The JASON parse exercise was not easy, but there is a wonderful resouce: 
+"Javascript, the Good Parts," by Douglas Crockford. Not only he teaches you good practices
+he has deep insights on what makes javascrit great, and what doesn't. A great resouce, 
+altough a little bit dated, since it was written before ES6.
